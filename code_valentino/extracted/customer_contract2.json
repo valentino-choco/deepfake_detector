@@ -1,0 +1,36 @@
+{
+    "INFORMATIONS_GÉNÉRALES": {
+        "type_contrat": "Partenariat",
+        "objet_contrat": "Convention de partenariat exclusif pour le parrainage des éditions 2024 à 2028 du Tour de France, d'autres épreuves cyclistes et d'épreuves de masse par LCL en échange de droits d'utilisation des marques et d'une visibilité promotionnelle.",
+        "loi_applicable": "Droit Français",
+        "lieu_signature": "Boulogne"
+    },
+    "LES_PARTIES": {
+        "partie_A": {
+            "nom": "ANTALIS SPORT ORGANISATION (A.S.O.)",
+            "role": "Organisateur/Prestataire",
+            "adresse": "40-42 Quai du Point du Jour, Bâtiment Quai Ouest, CS 90302, 92650 Boulogne-Billancourt Cedex",
+            "identifiant": "123456789"
+        },
+        "partie_B": {
+            "nom": "CREDIT LYONNAIS (LCL)",
+            "role": "Partenaire/Client",
+            "adresse": "18 rue de la République, 69002 Lyon (siège social) / 20 avenue de Paris, 94800 Villejuif (siège central)",
+            "identifiant": "954509741"
+        }
+    },
+    "TEMPORALITÉ": {
+        "date_signature": "2007-09-23",
+        "date_debut_effet": "2023-10-25",
+        "date_fin_prevue": "2028-12-31",
+        "duree_texte": "5 ans (du 25 octobre 2023 au 31 décembre 2028)",
+        "tacite_reconduction": false
+    },
+    "FINANCIER": {
+        "montant_principal": 72500000.0,
+        "devise": "EUR",
+        "frequence_paiement": "Annuel (2 versements par an: 15 mars et 15 juin)",
+        "modalites_paiement": "À réception des factures émises par A.S.O.",
+        "depot_garantie": null
+    }
+}
