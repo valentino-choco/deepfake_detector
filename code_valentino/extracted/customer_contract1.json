@@ -1,14 +1,14 @@
 {
     "INFORMATIONS_GÉNÉRALES": {
         "type_contrat": "Exploitation",
-        "objet_contrat": "Contrat portant sur l'exploitation d'une enceinte élargie par l'Exploitant pour le compte de la Société.",
+        "objet_contrat": "Contrat portant sur l'exploitation d'une enceinte élargie entre ARIBA et OLE.",
         "loi_applicable": "Droit Français",
         "lieu_signature": "Marseille"
     },
     "LES_PARTIES": {
         "partie_A": {
             "nom": "ARIBA",
-            "role": "Société (donneur d'ordre)",
+            "role": "Société",
             "adresse": "3 Boulevard Ghandour, 13008 Marseille",
             "identifiant": "525327037"
         },
