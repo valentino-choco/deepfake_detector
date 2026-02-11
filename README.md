@@ -9,7 +9,7 @@ This project provides a deepfake detection system that can identify manipulated 
 ## Installation
 
 ```bash
-git clone https://github.com/username/deepfake_detector.git
+git clone git@github.com:valentino-choco/deepfake_detector.git
 cd deepfake_detector
 pip install -r requirements.txt
 ```
