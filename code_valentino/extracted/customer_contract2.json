@@ -1,7 +1,7 @@
 {
     "INFORMATIONS_GÉNÉRALES": {
         "type_contrat": "Partenariat",
-        "objet_contrat": "Convention de partenariat exclusif pour le parrainage des éditions 2024 à 2028 du Tour de France, d'autres épreuves cyclistes et d'épreuves de masse par LCL en échange de droits d'utilisation des marques et d'une visibilité promotionnelle.",
+        "objet_contrat": "Convention de partenariat exclusif pour le parrainage des éditions 2024 à 2028 du Tour de France, d'autres épreuves cyclistes et d'épreuves de masse par LCL en échange de droits d'utilisation des marques et d'avantages promotionnels.",
         "loi_applicable": "Droit Français",
         "lieu_signature": "Boulogne"
     },
@@ -15,7 +15,7 @@
         "partie_B": {
             "nom": "CREDIT LYONNAIS (LCL)",
             "role": "Partenaire/Client",
-            "adresse": "18 rue de la République, 69002 Lyon (siège social) / 20 avenue de Paris, 94800 Villejuif (siège central)",
+            "adresse": "18 rue de la République, 69002 Lyon (siège social); 20 avenue de Paris, 94800 Villejuif (siège central)",
             "identifiant": "954509741"
         }
     },
