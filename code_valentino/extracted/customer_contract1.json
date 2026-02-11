@@ -1,0 +1,36 @@
+{
+    "INFORMATIONS_GÉNÉRALES": {
+        "type_contrat": "Exploitation",
+        "objet_contrat": "Contrat portant sur l'exploitation d'une enceinte élargie entre ARIBA et OLE.",
+        "loi_applicable": "Droit Français",
+        "lieu_signature": "Marseille"
+    },
+    "LES_PARTIES": {
+        "partie_A": {
+            "nom": "ARIBA",
+            "role": "Société",
+            "adresse": "3 Boulevard Ghandour, 13008 Marseille",
+            "identifiant": "525327037"
+        },
+        "partie_B": {
+            "nom": "OLE",
+            "role": "Exploitant",
+            "adresse": "33, Traverse de l'Alloret, 13012 Marseille",
+            "identifiant": "842891970"
+        }
+    },
+    "TEMPORALITÉ": {
+        "date_signature": "2018-12-22",
+        "date_debut_effet": null,
+        "date_fin_prevue": null,
+        "duree_texte": null,
+        "tacite_reconduction": null
+    },
+    "FINANCIER": {
+        "montant_principal": null,
+        "devise": null,
+        "frequence_paiement": null,
+        "modalites_paiement": null,
+        "depot_garantie": null
+    }
+}
