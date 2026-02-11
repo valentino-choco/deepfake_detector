@@ -1,0 +1,7 @@
+os
+json
+matplotlib.pyplot
+math
+pdfplumber
+mistralai
+collections

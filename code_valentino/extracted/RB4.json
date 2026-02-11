@@ -1,0 +1,155 @@
+{
+    "banque": "CAISSE D EPARGNE CEPAC",
+    "titulaire_compte": "KPMG CE",
+    "numero_compte": "FR00 0000 0000 0000 0000 0000 000",
+    "periode": "30/11/2024 au 31/12/2024",
+    "solde_debut": 12852.87,
+    "solde_fin": -22581.36,
+    "devise": "EUR",
+    "transactions": [
+        {
+            "date": "2024-12-02",
+            "code": "6269632",
+            "libelle": "VIR SEPA CPAM DE MOSELLE -METZ/0488661703000143332521241129",
+            "date_valeur": "2024-12-02",
+            "type_operation": "Vir. reçu",
+            "montant": 297.33
+        },
+        {
+            "date": "2024-12-03",
+            "code": "5965214",
+            "libelle": "GROUPEADF reçu",
+            "date_valeur": "2024-12-03",
+            "type_operation": "Vir. de trésorerie",
+            "montant": 490000.0
+        },
+        {
+            "date": "2024-12-03",
+            "code": "6325563",
+            "libelle": "REM VIR SEPA DU 03/12/24 / 1002369122",
+            "date_valeur": "2024-12-03",
+            "type_operation": "Vir. émis",
+            "montant": -3401.78
+        },
+        {
+            "date": "2024-12-04",
+            "code": "1357005",
+            "libelle": "REM VIR SEPA DU 04/12/24 / 1002363924",
+            "date_valeur": "2024-12-04",
+            "type_operation": "Vir. émis",
+            "montant": -483688.98
+        },
+        {
+            "date": "2024-12-05",
+            "code": "0616000",
+            "libelle": "VIR SEPA CPAM DU BAS-RHIN -STR /0488661703000143386231241204",
+            "date_valeur": "2024-12-05",
+            "type_operation": "Vir. reçu",
+            "montant": 592.35
+        },
+        {
+            "date": "2024-12-05",
+            "code": "2407390",
+            "libelle": "VIR SEPA CPAM DE MOSELLE -METZ/0488661703000143382521241204",
+            "date_valeur": "2024-12-05",
+            "type_operation": "Vir. reçu",
+            "montant": 1386.93
+        },
+        {
+            "date": "2024-12-06",
+            "code": "9952763",
+            "libelle": "VIR SEPA CPAM DU BAS-RHIN -STR /0488661703000143398954241205",
+            "date_valeur": "2024-12-06",
+            "type_operation": "Vir. reçu",
+            "montant": 48.77
+        },
+        {
+            "date": "2024-12-17",
+            "code": "3609245",
+            "libelle": "VIR SEPA CPAM DE MOSELLE -METZ/0488661703000143482041241216",
+            "date_valeur": "2024-12-17",
+            "type_operation": "Vir. reçu",
+            "montant": 174.8
+        },
+        {
+            "date": "2024-12-18",
+            "code": "7864844",
+            "libelle": "VIR SEPA CPAM DU BAS-RHIN -STR /0488661703000143516231241217",
+            "date_valeur": "2024-12-18",
+            "type_operation": "Vir. reçu",
+            "montant": 552.86
+        },
+        {
+            "date": "2024-12-18",
+            "code": "4663255",
+            "libelle": "T11406548866URSSAF D'ALSACE /BQE 142724351072113RCU R000026376",
+            "date_valeur": "2024-12-17",
+            "type_operation": "Prél. domiciliés",
+            "montant": -152597.0
+        },
+        {
+            "date": "2024-12-18",
+            "code": "9933260",
+            "libelle": "GROUPEADF reçu",
+            "date_valeur": "2024-12-18",
+            "type_operation": "Vir. de trésorerie",
+            "montant": 150000.0
+        },
+        {
+            "date": "2024-12-19",
+            "code": "9874821",
+            "libelle": "COMMISSION INTERVENTION PREL. divers",
+            "date_valeur": "2024-12-19",
+            "type_operation": "Comm. et frais",
+            "montant": -9.5
+        },
+        {
+            "date": "2024-12-20",
+            "code": "9918620",
+            "libelle": "REM VIR SEPA DU 20/12/24 / 1002377323",
+            "date_valeur": "2024-12-20",
+            "type_operation": "Vir. émis",
+            "montant": -5000.0
+        },
+        {
+            "date": "2024-12-23",
+            "code": "1710507",
+            "libelle": "VIR SEPA C.P.A.M. HAUT-RHIN /0488661703000143558000241220",
+            "date_valeur": "2024-12-23",
+            "type_operation": "Vir. reçu",
+            "montant": 77.76
+        },
+        {
+            "date": "2024-12-24",
+            "code": "2352122",
+            "libelle": "N N488661703DDGFIP / 32068035099bhxp4cpxe0h2sf1v p31u 7x6",
+            "date_valeur": "2024-12-24",
+            "type_operation": "Prél. domiciliés",
+            "montant": -20513.0
+        },
+        {
+            "date": "2024-12-26",
+            "code": "2469792",
+            "libelle": "COMMISSION INTERVENTION PREL. divers",
+            "date_valeur": "2024-12-26",
+            "type_operation": "Comm. et frais",
+            "montant": -9.5
+        },
+        {
+            "date": "2024-12-27",
+            "code": "3167675",
+            "libelle": "GROUPEADF reçu",
+            "date_valeur": "2024-12-27",
+            "type_operation": "Vir. de trésorerie",
+            "montant": 15000.0
+        },
+        {
+            "date": "2024-12-31",
+            "code": "2520784",
+            "libelle": "SCG023URAE00GIE KLESIA COTIS /A G023000022366546",
+            "date_valeur": "2024-12-31",
+            "type_operation": "Prél. domiciliés",
+            "montant": -28345.27
+        }
+    ]
+}

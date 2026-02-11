@@ -1,0 +1,20 @@
+{
+    "emetteur": "Société A",
+    "numero_facture": "18/12/3120",
+    "date": "2018-12-31",
+    "montant_ht": 54037.1,
+    "montant_tva": 10807.42,
+    "montant_ttc": 64844.52,
+    "devise": "EUR",
+    "articles": [
+        {
+            "libelle": "26 000 exemplaires GIBAUD CATALOGUE 2019 N°2019 - Pagination : 160 + 6 pages Magazine - Format : 210 x 297 mm - Couverture : Couché brillant triple couche PEFC 250g - Intérieur : Couché brillant SB PEFC bl 98 130g - Finition : Pelliculage soft touch recto de couverture - Façonnage : Dos carré collé pur - Spécificités : Couverture ajustée avec rabat de 160mm, 29 encoches (réparties sur 4 niveaux) + 1 encoche bandeau, 3 encoches coup de pouce en pied - Transport : Inclus forfait 1 point 42 en 2 livraisons",
+            "quantite": 26000,
+            "poids": 732.0,
+            "prix_unitaire": null,
+            "remise": 822.9,
+            "prix_unitaire_apres_remise": null,
+            "montant": 54860.0
+        }
+    ]
+}

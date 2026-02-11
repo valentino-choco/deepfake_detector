@@ -1,0 +1,119 @@
+{
+    "emetteur": "SERVIEU HOULES",
+    "numero_facture": "200276",
+    "date": "2020-01-31",
+    "montant_ht": 4905.69,
+    "montant_tva": 981.13,
+    "montant_ttc": 5886.82,
+    "devise": "EUR",
+    "articles": [
+        {
+            "libelle": "Plaque waterless Toray TAC - LB - 0.30 377x342",
+            "quantite": 600,
+            "poids": null,
+            "prix_unitaire": 2.79,
+            "remise": null,
+            "prix_unitaire_apres_remise": 2.79,
+            "montant": 1674.0
+        },
+        {
+            "libelle": "JUPITER UV + WF22 345x555 avance 150/307 VIVA 340",
+            "quantite": 10,
+            "poids": null,
+            "prix_unitaire": 40.36,
+            "remise": null,
+            "prix_unitaire_apres_remise": 40.36,
+            "montant": 403.6
+        },
+        {
+            "libelle": "Kg TOKA Waterless UV171 H-UT LoLm Q.Proc Magenta",
+            "quantite": 8,
+            "poids": 8.0,
+            "prix_unitaire": 44.35,
+            "remise": null,
+            "prix_unitaire_apres_remise": 44.35,
+            "montant": 354.8
+        },
+        {
+            "libelle": "Kg TOKA Waterless UV171 H-UT LoLm Q.Proc Cyan",
+            "quantite": 6,
+            "poids": 6.0,
+            "prix_unitaire": 44.35,
+            "remise": null,
+            "prix_unitaire_apres_remise": 44.35,
+            "montant": 266.1
+        },
+        {
+            "libelle": "Kg TOKA Waterless UV171 H-UT LoLm Q.Proc Yellow",
+            "quantite": 10,
+            "poids": 10.0,
+            "prix_unitaire": 44.35,
+            "remise": null,
+            "prix_unitaire_apres_remise": 44.35,
+            "montant": 443.5
+        },
+        {
+            "libelle": "Kg TOKA Waterless UV171 H-UTRV LoLm Dense Black",
+            "quantite": 16,
+            "poids": 16.0,
+            "prix_unitaire": 48.51,
+            "remise": null,
+            "prix_unitaire_apres_remise": 48.51,
+            "montant": 776.16
+        },
+        {
+            "libelle": "Kg TOKA Waterless UV171 H-UT LoLm - YELLOW P",
+            "quantite": 3,
+            "poids": 3.0,
+            "prix_unitaire": 44.35,
+            "remise": null,
+            "prix_unitaire_apres_remise": 44.35,
+            "montant": 133.05
+        },
+        {
+            "libelle": "Kg WATERLESS TOKA UV 171 H -VARNISH MAT (encrier)",
+            "quantite": 5,
+            "poids": 5.0,
+            "prix_unitaire": 51.36,
+            "remise": null,
+            "prix_unitaire_apres_remise": 51.36,
+            "montant": 256.8
+        },
+        {
+            "libelle": "Kg WATERLESS TOKA UV 171 H -VARNISH Gloss encrier",
+            "quantite": 5,
+            "poids": 5.0,
+            "prix_unitaire": 51.36,
+            "remise": null,
+            "prix_unitaire_apres_remise": 51.36,
+            "montant": 256.8
+        },
+        {
+            "libelle": "TESAFIX 4959 50mmx100M RESISTANT CHALEUR",
+            "quantite": 3,
+            "poids": null,
+            "prix_unitaire": 59.82,
+            "remise": null,
+            "prix_unitaire_apres_remise": 59.82,
+            "montant": 179.46
+        },
+        {
+            "libelle": "1x25L Alcool isopropylique nature (IPA)",
+            "quantite": 2,
+            "poids": null,
+            "prix_unitaire": 79.71,
+            "remise": null,
+            "prix_unitaire_apres_remise": 79.71,
+            "montant": 159.42
+        },
+        {
+            "libelle": "Frais administratifs forfaitaires",
+            "quantite": 1,
+            "poids": null,
+            "prix_unitaire": 2.0,
+            "remise": null,
+            "prix_unitaire_apres_remise": 2.0,
+            "montant": 2.0
+        }
+    ]
+}

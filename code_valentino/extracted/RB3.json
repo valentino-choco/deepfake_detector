@@ -1,0 +1,35 @@
+{
+    "banque": "CREDIT LYONNAIS",
+    "titulaire_compte": "KPMG",
+    "numero_compte": "FR00 0000 0000 0000 0000 0000 U00",
+    "periode": "29/11/2024 au 02/01/2025",
+    "solde_debut": 13093.34,
+    "solde_fin": 17093.34,
+    "devise": "EUR",
+    "transactions": [
+        {
+            "date": "2024-11-29",
+            "code": "0000000",
+            "libelle": "VIR SEPA LCL/SAT 100115502738 / 1133412800000000",
+            "date_valeur": "2024-11-29",
+            "type_operation": "Autre Vir. émis",
+            "montant": -13193.34
+        },
+        {
+            "date": "2024-12-06",
+            "code": "0000000",
+            "libelle": "24120600000315496 / 2742412062143200 reçu",
+            "date_valeur": "2024-12-06",
+            "type_operation": "Vir. de trésorerie",
+            "montant": 4000.0
+        },
+        {
+            "date": "2024-12-31",
+            "code": "0000000",
+            "libelle": "MAINLEVEE 29/11/2024 / 4366221340299100",
+            "date_valeur": "2024-12-31",
+            "type_operation": "Opé. diverse",
+            "montant": 13193.34
+        }
+    ]
+}

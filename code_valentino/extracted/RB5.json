@@ -1,0 +1,67 @@
+{
+    "banque": "BNP PARIBAS",
+    "titulaire_compte": "KPMG",
+    "numero_compte": "FR00 0000 0000 0000 0000 0000 000",
+    "periode": "29/11/2024 au 31/12/2024",
+    "solde_debut": 165613.65,
+    "solde_fin": 162678.87,
+    "devise": "EUR",
+    "transactions": [
+        {
+            "date": "2024-12-03",
+            "code": "0000000",
+            "libelle": "FACTURE NUMERO 2024120116235148 / 3 compris taxes",
+            "date_valeur": "2024-12-10",
+            "type_operation": null,
+            "montant": -95.29
+        },
+        {
+            "date": "2024-12-05",
+            "code": "0000000",
+            "libelle": "1/NATIXIS /URI/CASH///ROC/17295 / 604M TRN PTT00",
+            "date_valeur": "2024-12-05",
+            "type_operation": "18 - Autre Vir. reçu",
+            "montant": 6854.07
+        },
+        {
+            "date": "2024-12-05",
+            "code": "0000000",
+            "libelle": "1/NATIXIS /URI/CASH///ROC/17295 / 603M TRN PTT00",
+            "date_valeur": "2024-12-05",
+            "type_operation": "18 - Autre Vir. reçu",
+            "montant": 6854.07
+        },
+        {
+            "date": "2024-12-05",
+            "code": "0000000",
+            "libelle": "1/NATIXIS /URI/CASH///ROC/17295 / 601M TRN PTT00",
+            "date_valeur": "2024-12-05",
+            "type_operation": "18 - Autre Vir. reçu",
+            "montant": 9138.76
+        },
+        {
+            "date": "2024-12-05",
+            "code": "0000000",
+            "libelle": "LA BANQUE POSTALE PARIS /ROC/54 / 60442 TRN 2210",
+            "date_valeur": "2024-12-05",
+            "type_operation": "18 - Autre Vir. reçu",
+            "montant": 27300.0
+        },
+        {
+            "date": "2024-12-05",
+            "code": "0000000",
+            "libelle": "0000000034493818P20240619202506 / 051 ADANMRSJ5TFC",
+            "date_valeur": "2024-12-05",
+            "type_operation": "18 - Autre Vir. reçu",
+            "montant": 29903.61
+        },
+        {
+            "date": "2024-12-05",
+            "code": "0000002VIRTS",
+            "libelle": "IBERIA REMISE REF IBERIA / REGLT 06122024",
+            "date_valeur": "2024-12-05",
+            "type_operation": "21 - Autre Vir. émis",
+            "montant": -82890.0
+        }
+    ]
+}

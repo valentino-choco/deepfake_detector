@@ -1,0 +1,38 @@
+{
+    "emetteur": "FOURNISSEUR",
+    "numero_facture": "19158399 RI",
+    "date": "2020-06-11",
+    "montant_ht": 7000.89,
+    "montant_tva": 385.06,
+    "montant_ttc": 7385.95,
+    "devise": "EUR",
+    "articles": [
+        {
+            "libelle": "FARINE T5 25KG",
+            "quantite": 157,
+            "poids": 3925.0,
+            "prix_unitaire": 450.0,
+            "remise": 156.0,
+            "prix_unitaire_apres_remise": 294.0,
+            "montant": 1153.95
+        },
+        {
+            "libelle": "FAR COLOMBE T5 P90",
+            "quantite": 19,
+            "poids": 18810.0,
+            "prix_unitaire": 450.0,
+            "remise": 155.0,
+            "prix_unitaire_apres_remise": 295.0,
+            "montant": 5548.95
+        },
+        {
+            "libelle": "FBA JULIE T45 FA0",
+            "quantite": 99,
+            "poids": 990.0,
+            "prix_unitaire": 520.0,
+            "remise": 219.0,
+            "prix_unitaire_apres_remise": 301.0,
+            "montant": 297.99
+        }
+    ]
+}

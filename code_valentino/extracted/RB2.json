@@ -1,0 +1,355 @@
+{
+    "banque": "Crédit du Nord",
+    "titulaire_compte": "FAREXPORT",
+    "numero_compte": "FR00 0000 0000 000",
+    "periode": "01/07/2020 au 31/07/2020",
+    "solde_debut": 15878.39,
+    "solde_fin": -306060.82,
+    "devise": "EUR",
+    "transactions": [
+        {
+            "date": "2020-06-30",
+            "code": "7188795",
+            "libelle": "ABONNEMENT.MONETIA",
+            "date_valeur": "2020-06-30",
+            "type_operation": "Débit",
+            "montant": -4.4
+        },
+        {
+            "date": "2020-06-30",
+            "code": "7188795",
+            "libelle": "LOCATION.MONETIA",
+            "date_valeur": "2020-06-30",
+            "type_operation": "Débit",
+            "montant": -66.0
+        },
+        {
+            "date": "2020-07-01",
+            "code": "AG033000009362306",
+            "libelle": "PRLV SEPA ASSOCIATION DE MOYENS RETRAITE RETRAITE - MALAKOFF HUMANIS - 202007M - SIRET 47983271900021",
+            "date_valeur": "2020-07-01",
+            "type_operation": "Débit",
+            "montant": -2990.57
+        },
+        {
+            "date": "2020-07-02",
+            "code": null,
+            "libelle": "NORTRANS EXTRAIT DE CPTE NOVEMBRE 2020- 1 CPTE - 263 ECRITURES",
+            "date_valeur": "2020-06-30",
+            "type_operation": "Débit",
+            "montant": -26.14
+        },
+        {
+            "date": "2020-07-03",
+            "code": null,
+            "libelle": "VIR GROUPE VIREMENT TRESORERIE",
+            "date_valeur": "2020-07-03",
+            "type_operation": "Crédit",
+            "montant": 25000.0
+        },
+        {
+            "date": "2020-07-03",
+            "code": "33113",
+            "libelle": "FRAIS REM VIR SEPA",
+            "date_valeur": "2020-07-03",
+            "type_operation": "Débit",
+            "montant": -3.41
+        },
+        {
+            "date": "2020-07-03",
+            "code": "DOMTSJ00111",
+            "libelle": "REM. VIR. SEPA /NB OPE: 0000001",
+            "date_valeur": "2020-07-03",
+            "type_operation": "Crédit",
+            "montant": 33113.39
+        },
+        {
+            "date": "2020-07-04",
+            "code": null,
+            "libelle": "INTERNET ENTREPRISE ET INSTITUTIONNEL",
+            "date_valeur": "2020-07-04",
+            "type_operation": "Débit",
+            "montant": -36.0
+        },
+        {
+            "date": "2020-07-04",
+            "code": null,
+            "libelle": "PRLV SEPA ENGINEERING HOTEL RESTAURANT S EHR SOFT MAINTENANCE LOGICIEL VEGA",
+            "date_valeur": "2020-07-04",
+            "type_operation": "Débit",
+            "montant": -308.22
+        },
+        {
+            "date": "2020-07-07",
+            "code": "SALA000000151115SRH",
+            "libelle": "FRAIS REM VIR SALA",
+            "date_valeur": "2020-07-07",
+            "type_operation": "Débit",
+            "montant": -3.41
+        },
+        {
+            "date": "2020-07-07",
+            "code": "SALA000000151115SRH",
+            "libelle": "REM. VIR. SALA /NB OPE: 0000001",
+            "date_valeur": "2020-07-07",
+            "type_operation": "Crédit",
+            "montant": 173.97
+        },
+        {
+            "date": "2020-07-08",
+            "code": "661786",
+            "libelle": "RET DAB CB 661786 15629 LE 07.12",
+            "date_valeur": "2020-07-08",
+            "type_operation": "Débit",
+            "montant": -200.0
+        },
+        {
+            "date": "2020-07-08",
+            "code": "20001132291120",
+            "libelle": "PRLV SEPA BOUYGUES TELECOM",
+            "date_valeur": "2020-07-08",
+            "type_operation": "Débit",
+            "montant": -1703.85
+        },
+        {
+            "date": "2020-07-15",
+            "code": "0800003916",
+            "libelle": "VIR BOULE REF :0800003916 /INV/F-13211-J3B2F 2.12.2020 / /INV/F-03277-N1R1 23.7.2020 /",
+            "date_valeur": "2020-07-15",
+            "type_operation": "Crédit",
+            "montant": 645.39
+        },
+        {
+            "date": "2020-07-16",
+            "code": "VIR SEPA 15/12/2020 09 47 25-00001",
+            "libelle": "VIR LA COMPAGNIE DS REF :VIR SEPA 15/12/2020 09 47 25-00001 FACTURE NA. F-1165Y5K",
+            "date_valeur": "2020-07-16",
+            "type_operation": "Crédit",
+            "montant": 1606.8
+        },
+        {
+            "date": "2020-07-16",
+            "code": "-0",
+            "libelle": "VIR PETITS DEVELOPPEMEN REF : -0 F-01701-Q2V5",
+            "date_valeur": "2020-07-16",
+            "type_operation": "Crédit",
+            "montant": 3700.8
+        },
+        {
+            "date": "2020-07-16",
+            "code": null,
+            "libelle": "VIR TRESO FAR",
+            "date_valeur": "2020-07-16",
+            "type_operation": "Crédit",
+            "montant": 2556.54
+        },
+        {
+            "date": "2020-07-16",
+            "code": null,
+            "libelle": "VIR GROUPE FAR",
+            "date_valeur": "2020-07-16",
+            "type_operation": "Crédit",
+            "montant": 11329.09
+        },
+        {
+            "date": "2020-07-16",
+            "code": "REF144",
+            "libelle": "VIR ARTISTE PAIN REF144",
+            "date_valeur": "2020-07-16",
+            "type_operation": "Crédit",
+            "montant": 774.27
+        },
+        {
+            "date": "2020-07-17",
+            "code": "VK03521YD0C1YG01",
+            "libelle": "VIR GROUP FAR REF :VK03521YD0C1YG01 REF :1944",
+            "date_valeur": "2020-07-17",
+            "type_operation": "Crédit",
+            "montant": 2975.4
+        },
+        {
+            "date": "2020-07-17",
+            "code": null,
+            "libelle": "VIR GROUPE FAR",
+            "date_valeur": "2020-07-17",
+            "type_operation": "Crédit",
+            "montant": 135000.0
+        },
+        {
+            "date": "2020-07-17",
+            "code": "125926",
+            "libelle": "FRAIS REM VIR SEPA",
+            "date_valeur": "2020-07-17",
+            "type_operation": "Débit",
+            "montant": -3.41
+        },
+        {
+            "date": "2020-07-17",
+            "code": "13097",
+            "libelle": "FRAIS REM VIR SEPA",
+            "date_valeur": "2020-07-17",
+            "type_operation": "Débit",
+            "montant": -5.72
+        },
+        {
+            "date": "2020-07-17",
+            "code": "echeance 14122020 lot 0001",
+            "libelle": "REM. VIR. SEPA /NB OPE: 0000012",
+            "date_valeur": "2020-07-17",
+            "type_operation": "Crédit",
+            "montant": 13097.59
+        },
+        {
+            "date": "2020-07-17",
+            "code": "echeance 14122020 lot 0001",
+            "libelle": "REM. VIR. SEPA /NB OPE: 0000001",
+            "date_valeur": "2020-07-17",
+            "type_operation": "Crédit",
+            "montant": 125926.61
+        },
+        {
+            "date": "2020-07-18",
+            "code": "VT CM",
+            "libelle": "VIR EVENTS FACTS EVE REF :VT CM VT",
+            "date_valeur": "2020-07-18",
+            "type_operation": "Crédit",
+            "montant": 9462.0
+        },
+        {
+            "date": "2020-07-18",
+            "code": null,
+            "libelle": "VIR TRESO CHATEAU",
+            "date_valeur": "2020-07-18",
+            "type_operation": "Crédit",
+            "montant": 359054.17
+        },
+        {
+            "date": "2020-07-21",
+            "code": "104RE25",
+            "libelle": "PRLV SEPA SFR BUSINESS-SOCIETE FRANCAISE",
+            "date_valeur": "2020-07-21",
+            "type_operation": "Débit",
+            "montant": -346.85
+        },
+        {
+            "date": "2020-07-21",
+            "code": "00466266071/2020/2246",
+            "libelle": "PRLV SEPA ANTARGAZ SCOR/60/DR Gaz Naturel/811",
+            "date_valeur": "2020-07-21",
+            "type_operation": "Débit",
+            "montant": -2422.96
+        },
+        {
+            "date": "2020-07-22",
+            "code": "BP-F226",
+            "libelle": "VIR BANKS SADLER REF :BP-F226 F-115K",
+            "date_valeur": "2020-07-22",
+            "type_operation": "Crédit",
+            "montant": 895.0
+        },
+        {
+            "date": "2020-07-22",
+            "code": "BP-F288",
+            "libelle": "VIR BANKS SADLER REF :BP-F288 F-101J",
+            "date_valeur": "2020-07-22",
+            "type_operation": "Crédit",
+            "montant": 2029.8
+        },
+        {
+            "date": "2020-07-22",
+            "code": null,
+            "libelle": "VIR GROUPE",
+            "date_valeur": "2020-07-22",
+            "type_operation": "Crédit",
+            "montant": 55000.0
+        },
+        {
+            "date": "2020-07-23",
+            "code": "2002257624",
+            "libelle": "VIR BOSTON SCIENTIFIC INTERN REF :2002257624 No.F-13452-No.F-1154 8- L1T2C/10/28/2020",
+            "date_valeur": "2020-07-23",
+            "type_operation": "Crédit",
+            "montant": 19077.08
+        },
+        {
+            "date": "2020-07-23",
+            "code": null,
+            "libelle": "VIR GROUPE FAR",
+            "date_valeur": "2020-07-23",
+            "type_operation": "Crédit",
+            "montant": 75000.0
+        },
+        {
+            "date": "2020-07-23",
+            "code": "SALA07SRH",
+            "libelle": "FRAIS REM VIR SALA",
+            "date_valeur": "2020-07-23",
+            "type_operation": "Débit",
+            "montant": -10.76
+        },
+        {
+            "date": "2020-07-23",
+            "code": "SALA07SRH",
+            "libelle": "REM. VIR. SALA /NB OPE: 0000036",
+            "date_valeur": "2020-07-23",
+            "type_operation": "Crédit",
+            "montant": 66696.75
+        },
+        {
+            "date": "2020-07-23",
+            "code": "320600610gz748300vorh8qkrhpswy3dee",
+            "libelle": "PRLV B2B PASDSN1512298327190002",
+            "date_valeur": "2020-07-23",
+            "type_operation": "Débit",
+            "montant": -782.0
+        },
+        {
+            "date": "2020-07-24",
+            "code": "220600610700089491901",
+            "libelle": "PRLV B2B DGFIP TVA-122020-3310CA3",
+            "date_valeur": "2020-07-24",
+            "type_operation": "Débit",
+            "montant": -269.0
+        },
+        {
+            "date": "2020-07-28",
+            "code": "19166042 19166043",
+            "libelle": "VIR MACILLA FRANCE REF : 19166042 19166043 /INV/F12524X9K7G 2020/INV/ACP",
+            "date_valeur": "2020-07-28",
+            "type_operation": "Crédit",
+            "montant": 13487.05
+        },
+        {
+            "date": "2020-07-28",
+            "code": "1D0750000101806917",
+            "libelle": "VIR BISCOTTE SASU REF :1D0750000101806917 TEL : 0 101806917 APART0600736 ASP ACT VITE PAILLE",
+            "date_valeur": "2020-07-28",
+            "type_operation": "Crédit",
+            "montant": 16449.68
+        },
+        {
+            "date": "2020-07-28",
+            "code": "77234",
+            "libelle": "FRAIS REM VIR SEPA",
+            "date_valeur": "2020-07-28",
+            "type_operation": "Débit",
+            "montant": -3.41
+        },
+        {
+            "date": "2020-07-28",
+            "code": "echeance 22122020 lot 0001",
+            "libelle": "REM. VIR. SEPA /NB OPE: 0000001",
+            "date_valeur": "2020-07-28",
+            "type_operation": "Crédit",
+            "montant": 77234.4
+        },
+        {
+            "date": "2020-07-30",
+            "code": "661786",
+            "libelle": "ACHATS CARTE ...66 1786 DU MOIS 07.2020",
+            "date_valeur": "2020-07-31",
+            "type_operation": "Débit",
+            "montant": -1135.92
+        }
+    ]
+}

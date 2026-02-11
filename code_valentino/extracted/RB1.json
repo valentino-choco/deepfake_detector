@@ -1,0 +1,251 @@
+{
+    "banque": "Société Générale",
+    "titulaire_compte": "Nom du client",
+    "numero_compte": "00000 00 000000 000000 00 00",
+    "periode": "01/07/2020 au 31/07/2020",
+    "solde_debut": 1958.09,
+    "solde_fin": -157508.89,
+    "devise": "EUR",
+    "transactions": [
+        {
+            "date": "2020-07-01",
+            "code": "6295410478S",
+            "libelle": "VIR RECU DE: FACILITY REF: IJ/RENTE GPS/201201011000251",
+            "date_valeur": "2020-07-01",
+            "type_operation": "VIREMENT REÇU",
+            "montant": 368.25
+        },
+        {
+            "date": "2020-07-01",
+            "code": "083527710908",
+            "libelle": "FRAIS VIR EUROP. ELEC REF DOMTNOM00018 13 VIREMENT(S) A 0,21 EUR NT",
+            "date_valeur": "2020-07-30",
+            "type_operation": "FRAIS",
+            "montant": -2.73
+        },
+        {
+            "date": "2020-07-01",
+            "code": "6103915796",
+            "libelle": "PRELEVEMENT EUROPEEN DE: STILL ID: FR33ZZZ479663 MOTIF: R 169.20 V983858 / REF: 70001748682020/KD602950/12.2020/ MANDAT 000000004961",
+            "date_valeur": "2020-07-01",
+            "type_operation": "PRÉLÈVEMENT",
+            "montant": -169.2
+        },
+        {
+            "date": "2020-07-02",
+            "code": null,
+            "libelle": "CIONS TENUE DE COMPTE - GION MOUVEMENT EUR 260,36 - FRAIS FIXES EUR 29,00",
+            "date_valeur": "2020-07-30",
+            "type_operation": "FRAIS",
+            "montant": -289.36
+        },
+        {
+            "date": "2020-07-04",
+            "code": "083925479731",
+            "libelle": "VIR TRESO DE: 19146531 ORIGINE: 866,37 EUR",
+            "date_valeur": "2020-07-04",
+            "type_operation": "VIREMENT REÇU",
+            "montant": 866.37
+        },
+        {
+            "date": "2020-07-07",
+            "code": "084236763048",
+            "libelle": "VIR TRESO DE: DESSAJE ORIGINE: 428,54 EUR",
+            "date_valeur": "2020-07-07",
+            "type_operation": "VIREMENT REÇU",
+            "montant": 428.54
+        },
+        {
+            "date": "2020-07-07",
+            "code": "084229336685",
+            "libelle": "VIR EUROPEEN EMIS TRANS_ELEC REMISE :SALA0000O01 01902SRH REF:084229336685",
+            "date_valeur": "2020-07-07",
+            "type_operation": "VIREMENT ÉMIS",
+            "montant": -3000.0
+        },
+        {
+            "date": "2020-07-07",
+            "code": "084237097374",
+            "libelle": "VIR EUROPEEN EMIS TRANS_ELEC REMISE:echeance 04122020 lot 0001 REF: 084237097374",
+            "date_valeur": "2020-07-07",
+            "type_operation": "VIREMENT ÉMIS",
+            "montant": -4934.0
+        },
+        {
+            "date": "2020-07-07",
+            "code": "6512539143",
+            "libelle": "PRELEVEMENT EUROPEEN DE: ATS ID: FR75ZZZ191981 REF: 2012RPE00171 MANDAT 403C007535",
+            "date_valeur": "2020-07-07",
+            "type_operation": "PRÉLÈVEMENT",
+            "montant": -77.66
+        },
+        {
+            "date": "2020-07-08",
+            "code": "084229336685",
+            "libelle": "FRAIS VIR EUROP. ELEC REF SALA000000101902SRH",
+            "date_valeur": "2020-07-07",
+            "type_operation": "FRAIS",
+            "montant": -0.21
+        },
+        {
+            "date": "2020-07-08",
+            "code": "084237097374",
+            "libelle": "FRAIS VIR EUROP. ELEC REF echeance 04122020 lot 0001",
+            "date_valeur": "2020-07-07",
+            "type_operation": "FRAIS",
+            "montant": -0.21
+        },
+        {
+            "date": "2020-07-09",
+            "code": "6903054880",
+            "libelle": "PRELEVEMENT EUROPEEN DE: CTS COMPUTERS AND SYSTEM FR03ZZZ418899 MOTIF: 0 91 REF: 0 91 MANDAT 0003001405",
+            "date_valeur": "2020-07-09",
+            "type_operation": "PRÉLÈVEMENT",
+            "montant": -176.34
+        },
+        {
+            "date": "2020-07-11",
+            "code": "084618056393",
+            "libelle": "VIR TRESO DE: SPM SARL ORIGINE: 612,79 EUR",
+            "date_valeur": "2020-07-11",
+            "type_operation": "VIREMENT REÇU",
+            "montant": 612.79
+        },
+        {
+            "date": "2020-07-11",
+            "code": "084618835023",
+            "libelle": "VIR EUROPEEN EMIS TRANS_ELEC REMISE:SALA000000103329SRH REF: 084618835023",
+            "date_valeur": "2020-07-11",
+            "type_operation": "VIREMENT ÉMIS",
+            "montant": -1400.0
+        },
+        {
+            "date": "2020-07-11",
+            "code": "084618835028",
+            "libelle": "VIR EUROPEEN EMIS TRANS_ELEC REMISE:echeance 10122020 lot 0001 REF: 084618835028",
+            "date_valeur": "2020-07-11",
+            "type_operation": "VIREMENT ÉMIS",
+            "montant": -15024.08
+        },
+        {
+            "date": "2020-07-11",
+            "code": "084618835078",
+            "libelle": "VIR EUROPEEN EMIS TRANS_ELEC REMISE:echeance 10122020 lot 0001 REF: 084618835078",
+            "date_valeur": "2020-07-11",
+            "type_operation": "VIREMENT ÉMIS",
+            "montant": -11.69
+        },
+        {
+            "date": "2020-07-11",
+            "code": "084618835191",
+            "libelle": "VIR EUROPEEN EMIS TRANS_ELEC REMISE:echeance 10122020 lot 0001 REF: 084618835191",
+            "date_valeur": "2020-07-11",
+            "type_operation": "VIREMENT ÉMIS",
+            "montant": -2894.33
+        },
+        {
+            "date": "2020-07-12",
+            "code": "084618835078",
+            "libelle": "FRAIS VIR EUROP. ELEC REF echeance 10122020 lot 0001",
+            "date_valeur": "2020-07-11",
+            "type_operation": "FRAIS",
+            "montant": -0.21
+        },
+        {
+            "date": "2020-07-12",
+            "code": "084618835191",
+            "libelle": "FRAIS VIR EUROP. ELEC REF echeance 10122020 lot 0001",
+            "date_valeur": "2020-07-11",
+            "type_operation": "FRAIS",
+            "montant": -0.21
+        },
+        {
+            "date": "2020-07-12",
+            "code": "084618835023",
+            "libelle": "FRAIS VIR EUROP. ELEC REF SALA000000103329SRH 2 VIREMENT(S) A 0,21 EUR NT",
+            "date_valeur": "2020-07-11",
+            "type_operation": "FRAIS",
+            "montant": -0.42
+        },
+        {
+            "date": "2020-07-12",
+            "code": "084618835028",
+            "libelle": "FRAIS VIR EUROP. ELEC REF echeance 10122020 lot 0001 13 VIREMENT(S) A 0,21 EUR NT",
+            "date_valeur": "2020-07-11",
+            "type_operation": "FRAIS",
+            "montant": -2.73
+        },
+        {
+            "date": "2020-07-14",
+            "code": "7110232602",
+            "libelle": "PRELEVEMENT EUROPEEN DE: LE GROUPE LA P. ID: FR93COU111341 MOTIF: FAC N57981208 200463936120 CLT0 002697656 RUMMCCOU7306590 REF:20046393612020 MANDAT MCCOU7306590",
+            "date_valeur": "2020-07-14",
+            "type_operation": "PRÉLÈVEMENT",
+            "montant": -5.91
+        },
+        {
+            "date": "2020-07-17",
+            "code": "085245608700",
+            "libelle": "VIR TRESO DE: PRODISTRI REF 19158399 19158378 ORIGINE: 13487,05 EUR",
+            "date_valeur": "2020-07-17",
+            "type_operation": "VIREMENT REÇU",
+            "montant": 7385.95
+        },
+        {
+            "date": "2020-07-17",
+            "code": "085245244781",
+            "libelle": "VIR EUROPEEN EMIS TRANS_ELEC REMISE:echeance 16122020 lot 0001 REF: 085245244781",
+            "date_valeur": "2020-07-17",
+            "type_operation": "VIREMENT ÉMIS",
+            "montant": -87541.9
+        },
+        {
+            "date": "2020-07-18",
+            "code": "085245244781",
+            "libelle": "FRAIS VIR EUROP. ELEC REF echeance 16122020 lot 0001",
+            "date_valeur": "2020-07-17",
+            "type_operation": "FRAIS",
+            "montant": -0.21
+        },
+        {
+            "date": "2020-07-21",
+            "code": "8281958796S",
+            "libelle": "VIR RECU DE: C.M.C. MOTIF: REMBT VIRT RECU A TORT REF: REMBT VIRT RECU A TORT",
+            "date_valeur": "2020-07-21",
+            "type_operation": "VIREMENT REÇU",
+            "montant": 82.8
+        },
+        {
+            "date": "2020-07-22",
+            "code": "085711332400",
+            "libelle": "VIR TRESO DE: SAS PRODUITS ORIGINE: 44451,79 EUR",
+            "date_valeur": "2020-07-22",
+            "type_operation": "VIREMENT REÇU",
+            "montant": 44451.79
+        },
+        {
+            "date": "2020-07-22",
+            "code": "085711747889",
+            "libelle": "VIR TRESO DE: BAKERIES IRELAND ORIGINE: 9621,10 EUR",
+            "date_valeur": "2020-07-22",
+            "type_operation": "VIREMENT REÇU",
+            "montant": 9621.1
+        },
+        {
+            "date": "2020-07-23",
+            "code": "085711487275",
+            "libelle": "VIR EUROPEEN EMIS TRANS_ELEC REMISE:SALA000000115056SRH REF: 085711487275",
+            "date_valeur": "2020-07-23",
+            "type_operation": "VIREMENT ÉMIS",
+            "montant": -108034.14
+        },
+        {
+            "date": "2020-07-24",
+            "code": "085711487275",
+            "libelle": "FRAIS VIR EUROP. ELEC REF SALA000000115056SRH 48 VIREMENT(S) A 0,21 EUR NT",
+            "date_valeur": "2020-07-23",
+            "type_operation": "FRAIS",
+            "montant": -10.08
+        }
+    ]
+}

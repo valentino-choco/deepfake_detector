@@ -1,0 +1,20 @@
+{
+    "emetteur": "Société A",
+    "numero_facture": "919033910",
+    "date": "2019-01-28",
+    "montant_ht": 1482300.0,
+    "montant_tva": 296460.0,
+    "montant_ttc": 1778760.0,
+    "devise": "EUR",
+    "articles": [
+        {
+            "libelle": "Windpowerplant - Delivery of Towers on site",
+            "quantite": null,
+            "poids": null,
+            "prix_unitaire": null,
+            "remise": null,
+            "prix_unitaire_apres_remise": null,
+            "montant": 1482300.0
+        }
+    ]
+}

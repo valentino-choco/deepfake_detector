@@ -1,0 +1,56 @@
+{
+    "emetteur": "PARAGON IDENTIFICATION",
+    "numero_facture": "200934",
+    "date": "2020-02-28",
+    "montant_ht": 414.8,
+    "montant_tva": 82.96,
+    "montant_ttc": 497.76,
+    "devise": "EUR",
+    "articles": [
+        {
+            "libelle": "PLAQUE IPAGSA TOP F100 0.30 - 409x318 (dev)",
+            "quantite": 420,
+            "poids": null,
+            "prix_unitaire": 0.74,
+            "remise": null,
+            "prix_unitaire_apres_remise": 0.74,
+            "montant": 310.8
+        },
+        {
+            "libelle": "Frais administratifs forfaitaires",
+            "quantite": 1,
+            "poids": null,
+            "prix_unitaire": 2.0,
+            "remise": null,
+            "prix_unitaire_apres_remise": 2.0,
+            "montant": 2.0
+        },
+        {
+            "libelle": "Revelateur plaque Conv. MMK Bleu - PaE - 1x10L",
+            "quantite": 5,
+            "poids": null,
+            "prix_unitaire": 12.9,
+            "remise": null,
+            "prix_unitaire_apres_remise": 12.9,
+            "montant": 64.5
+        },
+        {
+            "libelle": "Port sur B/L 521658",
+            "quantite": 1,
+            "poids": null,
+            "prix_unitaire": 35.5,
+            "remise": null,
+            "prix_unitaire_apres_remise": 35.5,
+            "montant": 35.5
+        },
+        {
+            "libelle": "Frais administratifs forfaitaires",
+            "quantite": 1,
+            "poids": null,
+            "prix_unitaire": 2.0,
+            "remise": null,
+            "prix_unitaire_apres_remise": 2.0,
+            "montant": 2.0
+        }
+    ]
+}

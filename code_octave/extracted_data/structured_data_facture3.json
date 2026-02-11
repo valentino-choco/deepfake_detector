@@ -1,0 +1,32 @@
+{
+    "titre": "facture3.pdf",
+    "type": "facture",
+    "date": "11/06/20",
+    "client": null,
+    "fournisseur": null,
+    "reference": null,
+    "contenu": [
+        {
+            "quantite": "COMMANDE n°0662900 Bon de livraison 3623098 du N° cmde 12574499 MF 157 19 99 FARINE T5 25KG FAR COLOMBE T5 P90 FBA JULIE T45 FA0 En cas de retard de paiement,",
+            "libelle": "02/06/20 M02PO",
+            "pu": "450,00 450,00 520,00",
+            "montant": "1.153,95 5.548,95 297,99"
+        },
+        {
+            "quantite": "Montant Taxable / Amount net 40 euros. 7.000,89",
+            "libelle": "% indemnité 3) 5,500",
+            "pu": "frais de",
+            "montant": "7.000,89 385,06"
+        },
+        {
+            "quantite": "Mode de réglement / Terms of payment",
+            "libelle": "Mode de réglement / Terms of payment",
+            "pu": "/ Due date Échéance 11/07/20",
+            "montant": ""
+        }
+    ],
+    "totaux": {
+        "montant_tva": "385.06",
+        "a_payer": "7.385.95"
+    }
+}

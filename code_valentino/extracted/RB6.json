@@ -1,0 +1,10 @@
+{
+    "banque": "LA BANQUE POSTALE",
+    "titulaire_compte": "KPMG",
+    "numero_compte": "FR00 0000 0000 0000 0000 0U00 000",
+    "periode": "29/11/2024 au 31/12/2024",
+    "solde_debut": 3920.15,
+    "solde_fin": 3920.15,
+    "devise": "EUR",
+    "transactions": []
+}

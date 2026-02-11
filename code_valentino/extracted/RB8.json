@@ -1,0 +1,123 @@
+{
+    "banque": "ARKEA BANQUE E&I",
+    "titulaire_compte": "Client",
+    "numero_compte": "FR00 0000 0000 0000 0000 0000 067",
+    "periode": "01/12/2024 au 31/12/2024",
+    "solde_debut": 1236.5,
+    "solde_fin": 666.08,
+    "devise": "EUR",
+    "transactions": [
+        {
+            "date": "2024-12-02",
+            "code": null,
+            "libelle": "FRAIS ABT EBICS TS 11/24",
+            "date_valeur": "2024-12-02",
+            "type_operation": "Frais",
+            "montant": -84.0
+        },
+        {
+            "date": "2024-12-04",
+            "code": "CPN 2497084",
+            "libelle": "VDATSTRUCT CHANTIERS 33",
+            "date_valeur": "2024-12-06",
+            "type_operation": "Virement",
+            "montant": -512.5
+        },
+        {
+            "date": "2024-12-04",
+            "code": "CPN 2497082",
+            "libelle": "VDATSTRUCT CHANTIERS 33",
+            "date_valeur": "2024-12-06",
+            "type_operation": "Virement",
+            "montant": -512.5
+        },
+        {
+            "date": "2024-12-04",
+            "code": "CPN 2497073",
+            "libelle": "VDATSTRUCT CHANTIERS 33",
+            "date_valeur": "2024-12-06",
+            "type_operation": "Virement",
+            "montant": -512.5
+        },
+        {
+            "date": "2024-12-04",
+            "code": "000 2497083",
+            "libelle": "VDATSTRUCT CHANTIERS 25 000 000,00",
+            "date_valeur": "2024-12-06",
+            "type_operation": "Virement",
+            "montant": -25000000.0
+        },
+        {
+            "date": "2024-12-06",
+            "code": "VSOT SOGEFRPPXXX",
+            "libelle": "SGSN APPRO-00001 MGL007664279",
+            "date_valeur": "2024-12-06",
+            "type_operation": "Virement reçu",
+            "montant": 25135000.0
+        },
+        {
+            "date": "2024-12-06",
+            "code": null,
+            "libelle": "F FRAIS VIR INTRA CIE 007664279",
+            "date_valeur": "2024-12-06",
+            "type_operation": "Frais",
+            "montant": -7.8
+        },
+        {
+            "date": "2024-12-13",
+            "code": "VSOT CHANTIERS DE L'ATL",
+            "libelle": "/ROC/2434817RV0000684/R FB/13/1 MGL007681456",
+            "date_valeur": "2024-12-13",
+            "type_operation": "Virement reçu",
+            "montant": 20000000.0
+        },
+        {
+            "date": "2024-12-13",
+            "code": "VSOT CMBRFR2BCME",
+            "libelle": "APPRO ARKEA CPTE 187-00001 MGL007680863",
+            "date_valeur": "2024-12-13",
+            "type_operation": "Virement",
+            "montant": -20000000.0
+        },
+        {
+            "date": "2024-12-18",
+            "code": "CPN 2497084",
+            "libelle": "VDATSTRUCT CHANTIERS 33",
+            "date_valeur": "2024-12-20",
+            "type_operation": "Virement",
+            "montant": -493.06
+        },
+        {
+            "date": "2024-12-18",
+            "code": "CPN 2497073",
+            "libelle": "VDATSTRUCT CHANTIERS 33",
+            "date_valeur": "2024-12-20",
+            "type_operation": "Virement",
+            "montant": -493.06
+        },
+        {
+            "date": "2024-12-18",
+            "code": "CPN 2497082",
+            "libelle": "VDATSTRUCT CHANTIERS 33",
+            "date_valeur": "2024-12-20",
+            "type_operation": "Virement",
+            "montant": -493.06
+        },
+        {
+            "date": "2024-12-20",
+            "code": "VSOT BSCHFRPPXXX",
+            "libelle": "APPRO SANT ANDER-00001 MGL007699441",
+            "date_valeur": "2024-12-20",
+            "type_operation": "Virement reçu",
+            "montant": 100000.0
+        },
+        {
+            "date": "2024-12-20",
+            "code": null,
+            "libelle": "F FRAIS VIR INTRA CIE 007699441",
+            "date_valeur": "2024-12-20",
+            "type_operation": "Frais",
+            "montant": -7.8
+        }
+    ]
+}

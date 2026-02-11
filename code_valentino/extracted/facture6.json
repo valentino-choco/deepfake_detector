@@ -1,0 +1,92 @@
+{
+    "emetteur": "Contiweb",
+    "numero_facture": "62021729",
+    "date": "2018-03-23",
+    "montant_ht": 26600.0,
+    "montant_tva": 0.0,
+    "montant_ttc": 26600.0,
+    "devise": "EUR",
+    "articles": [
+        {
+            "libelle": "Remplacement chambres de combustion -EOT01079",
+            "quantite": 1,
+            "poids": null,
+            "prix_unitaire": 133000.0,
+            "remise": 106400.0,
+            "prix_unitaire_apres_remise": 26600.0,
+            "montant": 26600.0
+        },
+        {
+            "libelle": "Déja payé notre facture 1400043098 du 6 Decembre 2017, 30% à confirmation de commande",
+            "quantite": 1,
+            "poids": null,
+            "prix_unitaire": null,
+            "remise": 39900.0,
+            "prix_unitaire_apres_remise": null,
+            "montant": -39900.0
+        },
+        {
+            "libelle": "Déja payé notre facture 1400043099 du 6 Decembre 2017, 30% un mois avant livraison",
+            "quantite": 1,
+            "poids": null,
+            "prix_unitaire": null,
+            "remise": 39900.0,
+            "prix_unitaire_apres_remise": null,
+            "montant": -39900.0
+        },
+        {
+            "libelle": "Déja payé notre facture 1400043100 du 6 Decembre 2017, 20% à la livraison",
+            "quantite": 1,
+            "poids": null,
+            "prix_unitaire": null,
+            "remise": 26600.0,
+            "prix_unitaire_apres_remise": null,
+            "montant": -26600.0
+        },
+        {
+            "libelle": "New Burnerchambers E0TO1 079",
+            "quantite": null,
+            "poids": null,
+            "prix_unitaire": null,
+            "remise": null,
+            "prix_unitaire_apres_remise": null,
+            "montant": 133000.0
+        },
+        {
+            "libelle": "Burner add. parts",
+            "quantite": null,
+            "poids": null,
+            "prix_unitaire": null,
+            "remise": null,
+            "prix_unitaire_apres_remise": null,
+            "montant": 0.0
+        },
+        {
+            "libelle": "Add. parts general",
+            "quantite": null,
+            "poids": null,
+            "prix_unitaire": null,
+            "remise": null,
+            "prix_unitaire_apres_remise": null,
+            "montant": 0.0
+        },
+        {
+            "libelle": "PAM",
+            "quantite": null,
+            "poids": null,
+            "prix_unitaire": null,
+            "remise": null,
+            "prix_unitaire_apres_remise": null,
+            "montant": 0.0
+        },
+        {
+            "libelle": "Check & adjust settings",
+            "quantite": null,
+            "poids": null,
+            "prix_unitaire": null,
+            "remise": null,
+            "prix_unitaire_apres_remise": null,
+            "montant": 0.0
+        }
+    ]
+}
