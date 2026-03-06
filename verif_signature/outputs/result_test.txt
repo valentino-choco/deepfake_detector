@@ -1,0 +1,24 @@
+--- TEST DE VÉRIFICATION ---
+Modèle d'encodeur de production chargé.
+Sélection dynamique: Utilisateur à enrôler='056', Imposteur='057'
+Enrôlement de l'utilisateur: 056
+
+Utilisateur 056 enrôlé avec succès.
+
+Test 1 (Authentique) avec: data/validation/056/07_056.png
+--- Vérification de la signature pour 056 ---
+
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 43ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 84ms/step
+Distance calculée: 0.4669
+Seuil requis: 0.4123
+Résultat: Faux (Rejetée)
+
+Test 2 (Imposteur) avec: data/validation/057/01_057.png
+--- Vérification de la signature pour 056 ---
+
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 226ms/step
+Distance calculée: 0.6685
+Seuil requis: 0.4123
+Résultat: Faux (Rejetée)

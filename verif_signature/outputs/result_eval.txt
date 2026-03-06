@@ -1,0 +1,5 @@
+Nombre total de paires testées : 1400
+
+AUC (Area Under Curve) : 0.8830 (1.0 est parfait)
+EER (Equal Error Rate) : 0.1943
+==> SEUIL OPTIMAL SUGGÉRÉ : 0.4123 
