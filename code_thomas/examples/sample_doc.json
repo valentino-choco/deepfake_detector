@@ -1,0 +1,280 @@
+{
+  "pages": [
+    {
+      "width": 900,
+      "height": 1250,
+      "elements": [
+        {
+          "text": "ACME",
+          "confidence": 0.99,
+          "x_min": 60,
+          "y_min": 60,
+          "x_max": 140,
+          "y_max": 92,
+          "font_name": "ABCDE+Arial-Bold"
+        },
+        {
+          "text": "FACTURE",
+          "confidence": 0.99,
+          "x_min": 650,
+          "y_min": 60,
+          "x_max": 820,
+          "y_max": 98,
+          "font_name": "ABCDE+Arial-Bold"
+        },
+        {
+          "text": "Client",
+          "confidence": 0.99,
+          "x_min": 60,
+          "y_min": 170,
+          "x_max": 120,
+          "y_max": 195,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "Example Client",
+          "confidence": 0.99,
+          "x_min": 200,
+          "y_min": 170,
+          "x_max": 360,
+          "y_max": 195,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "Date",
+          "confidence": 0.99,
+          "x_min": 60,
+          "y_min": 215,
+          "x_max": 105,
+          "y_max": 238,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "12/02/2026",
+          "confidence": 0.99,
+          "x_min": 200,
+          "y_min": 215,
+          "x_max": 318,
+          "y_max": 238,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "Facture n",
+          "confidence": 0.99,
+          "x_min": 60,
+          "y_min": 260,
+          "x_max": 150,
+          "y_max": 286,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "FAC-2026-0008",
+          "confidence": 0.99,
+          "x_min": 205,
+          "y_min": 260,
+          "x_max": 360,
+          "y_max": 286,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "Description",
+          "confidence": 0.99,
+          "x_min": 60,
+          "y_min": 390,
+          "x_max": 180,
+          "y_max": 420,
+          "font_name": "ABCDE+Arial-Bold"
+        },
+        {
+          "text": "Qté",
+          "confidence": 0.99,
+          "x_min": 420,
+          "y_min": 390,
+          "x_max": 460,
+          "y_max": 420,
+          "font_name": "ABCDE+Arial-Bold"
+        },
+        {
+          "text": "PU",
+          "confidence": 0.99,
+          "x_min": 540,
+          "y_min": 390,
+          "x_max": 580,
+          "y_max": 420,
+          "font_name": "ABCDE+Arial-Bold"
+        },
+        {
+          "text": "Total",
+          "confidence": 0.99,
+          "x_min": 690,
+          "y_min": 390,
+          "x_max": 760,
+          "y_max": 420,
+          "font_name": "ABCDE+Arial-Bold"
+        },
+        {
+          "text": "Ordinateur",
+          "confidence": 0.99,
+          "x_min": 60,
+          "y_min": 455,
+          "x_max": 180,
+          "y_max": 485,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "1",
+          "confidence": 0.99,
+          "x_min": 430,
+          "y_min": 455,
+          "x_max": 438,
+          "y_max": 485,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "1 299,99",
+          "confidence": 0.99,
+          "x_min": 540,
+          "y_min": 455,
+          "x_max": 645,
+          "y_max": 485,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "1 299,99",
+          "confidence": 0.99,
+          "x_min": 690,
+          "y_min": 455,
+          "x_max": 795,
+          "y_max": 485,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "Garantie",
+          "confidence": 0.99,
+          "x_min": 72,
+          "y_min": 520,
+          "x_max": 165,
+          "y_max": 550,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "1",
+          "confidence": 0.99,
+          "x_min": 430,
+          "y_min": 520,
+          "x_max": 438,
+          "y_max": 550,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "199,99",
+          "confidence": 0.99,
+          "x_min": 548,
+          "y_min": 520,
+          "x_max": 630,
+          "y_max": 550,
+          "font_name": "ABCDE+Courier"
+        },
+        {
+          "text": "199,99",
+          "confidence": 0.99,
+          "x_min": 690,
+          "y_min": 520,
+          "x_max": 772,
+          "y_max": 550,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "Total HT",
+          "confidence": 0.99,
+          "x_min": 520,
+          "y_min": 760,
+          "x_max": 610,
+          "y_max": 792,
+          "font_name": "ABCDE+Arial-Bold"
+        },
+        {
+          "text": "1499,98",
+          "confidence": 0.99,
+          "x_min": 705,
+          "y_min": 760,
+          "x_max": 790,
+          "y_max": 792,
+          "font_name": "ABCDE+Arial-Bold"
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.99,
+          "x_min": 520,
+          "y_min": 810,
+          "x_max": 560,
+          "y_max": 840,
+          "font_name": "ABCDE+Arial-Bold"
+        },
+        {
+          "text": "300,00",
+          "confidence": 0.99,
+          "x_min": 710,
+          "y_min": 810,
+          "x_max": 780,
+          "y_max": 840,
+          "font_name": "ABCDE+Arial-Bold"
+        },
+        {
+          "text": "Total TTC",
+          "confidence": 0.99,
+          "x_min": 520,
+          "y_min": 860,
+          "x_max": 620,
+          "y_max": 895,
+          "font_name": "ABCDE+Arial-Bold"
+        },
+        {
+          "text": "1799,98",
+          "confidence": 0.99,
+          "x_min": 705,
+          "y_min": 860,
+          "x_max": 790,
+          "y_max": 895,
+          "font_name": "ABCDE+Arial-Bold"
+        },
+        {
+          "text": "IBAN",
+          "confidence": 0.99,
+          "x_min": 80,
+          "y_min": 1030,
+          "x_max": 130,
+          "y_max": 1055,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "FR76 3000 4000 5000 6000 7000 890",
+          "confidence": 0.99,
+          "x_min": 180,
+          "y_min": 1030,
+          "x_max": 580,
+          "y_max": 1055,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "SIRET",
+          "confidence": 0.99,
+          "x_min": 60,
+          "y_min": 320,
+          "x_max": 120,
+          "y_max": 346,
+          "font_name": "ABCDE+Arial"
+        },
+        {
+          "text": "123 456 789 00015",
+          "confidence": 0.99,
+          "x_min": 200,
+          "y_min": 320,
+          "x_max": 390,
+          "y_max": 346,
+          "font_name": "ABCDE+Arial"
+        }
+      ]
+    }
+  ]
+}

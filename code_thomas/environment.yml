@@ -1,0 +1,20 @@
+name: docfraud-layout
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip>=24
+  - numpy>=1.26
+  - pillow>=10
+  - pdfplumber>=0.11
+  - pdfminer.six>=20231228
+  - pdf2image>=1.17
+  - opencv>=4.9
+  - matplotlib>=3.8
+  - python-docx>=1.1
+  - reportlab>=4.1
+  - pytest>=8
+  - poppler
+  - pip:
+      - -e .
