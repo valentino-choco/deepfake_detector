@@ -1,0 +1,487 @@
+{
+  "type_document": "facture",
+  "source_kind": "json_ocr",
+  "nb_pages": 1,
+  "nb_elements_ocr": 30,
+  "score_layout_raw": 70.5,
+  "score_layout": 70.5,
+  "sections_detectees": {
+    "en_tete": {
+      "present": true,
+      "obligatoire": true,
+      "zone_y_attendue": [
+        0.0,
+        0.18
+      ],
+      "keywords_trouves": [
+        "facture",
+        "client"
+      ],
+      "nb_elements_zone": 4,
+      "observed_center_y": 130.8
+    },
+    "identifiants": {
+      "present": true,
+      "obligatoire": true,
+      "zone_y_attendue": [
+        0.05,
+        0.32
+      ],
+      "keywords_trouves": [
+        "date",
+        "facture n"
+      ],
+      "nb_elements_zone": 10,
+      "observed_center_y": 226.5
+    },
+    "lignes": {
+      "present": true,
+      "obligatoire": true,
+      "zone_y_attendue": [
+        0.25,
+        0.72
+      ],
+      "keywords_trouves": [
+        "description"
+      ],
+      "nb_elements_zone": 20,
+      "observed_center_y": 502.5
+    },
+    "totaux": {
+      "present": true,
+      "obligatoire": true,
+      "zone_y_attendue": [
+        0.6,
+        0.92
+      ],
+      "keywords_trouves": [
+        "total",
+        "ht",
+        "tva",
+        "ttc"
+      ],
+      "nb_elements_zone": 8,
+      "observed_center_y": 851.2
+    },
+    "pied_de_page": {
+      "present": true,
+      "obligatoire": false,
+      "zone_y_attendue": [
+        0.82,
+        1.0
+      ],
+      "keywords_trouves": [
+        "iban"
+      ],
+      "nb_elements_zone": 2,
+      "observed_center_y": 1042.5
+    }
+  },
+  "sections_manquantes": [],
+  "metriques_structurelles": {
+    "reference_sections": {
+      "coverage": 1.0,
+      "sections": {
+        "en_tete": {
+          "present": true,
+          "obligatoire": true,
+          "zone_y_attendue": [
+            0.0,
+            0.18
+          ],
+          "keywords_trouves": [
+            "facture",
+            "client"
+          ],
+          "nb_elements_zone": 4,
+          "observed_center_y": 130.8
+        },
+        "identifiants": {
+          "present": true,
+          "obligatoire": true,
+          "zone_y_attendue": [
+            0.05,
+            0.32
+          ],
+          "keywords_trouves": [
+            "date",
+            "facture n"
+          ],
+          "nb_elements_zone": 10,
+          "observed_center_y": 226.5
+        },
+        "lignes": {
+          "present": true,
+          "obligatoire": true,
+          "zone_y_attendue": [
+            0.25,
+            0.72
+          ],
+          "keywords_trouves": [
+            "description"
+          ],
+          "nb_elements_zone": 20,
+          "observed_center_y": 502.5
+        },
+        "totaux": {
+          "present": true,
+          "obligatoire": true,
+          "zone_y_attendue": [
+            0.6,
+            0.92
+          ],
+          "keywords_trouves": [
+            "total",
+            "ht",
+            "tva",
+            "ttc"
+          ],
+          "nb_elements_zone": 8,
+          "observed_center_y": 851.2
+        },
+        "pied_de_page": {
+          "present": true,
+          "obligatoire": false,
+          "zone_y_attendue": [
+            0.82,
+            1.0
+          ],
+          "keywords_trouves": [
+            "iban"
+          ],
+          "nb_elements_zone": 2,
+          "observed_center_y": 1042.5
+        }
+      },
+      "missing_sections": []
+    },
+    "field_positions": {
+      "field_matches": {
+        "iban": 1,
+        "bic": 0,
+        "siret": 1,
+        "siren": 0,
+        "total": 3,
+        "ttc": 0,
+        "facture": 2,
+        "invoice": 0,
+        "date": 1
+      }
+    },
+    "alignment": {
+      "colonnes": [
+        71,
+        202,
+        425,
+        544,
+        702
+      ],
+      "nb_colonnes": 5,
+      "ratio_desalignes": 0.733,
+      "row_offset_median_px": 71.25,
+      "section_metrics": {
+        "en_tete": {
+          "nb_elements": 4,
+          "nb_colonnes": 0,
+          "ratio_desalignes": 0.0
+        },
+        "identifiants": {
+          "nb_elements": 10,
+          "nb_colonnes": 1,
+          "ratio_desalignes": 0.0
+        },
+        "lignes": {
+          "nb_elements": 20,
+          "nb_colonnes": 4,
+          "ratio_desalignes": 0.85
+        },
+        "totaux": {
+          "nb_elements": 8,
+          "nb_colonnes": 1,
+          "ratio_desalignes": 0.0
+        }
+      }
+    },
+    "spacing": {
+      "median_gap_px": 34.5,
+      "std_gap_px": 35.96,
+      "nb_irregular_gaps": 0
+    }
+  },
+  "metriques_visuelles": {},
+  "metriques_polices": {
+    "global_heights": {
+      "median_height_px": 30,
+      "std_height_px": 3.74,
+      "nb_height_clusters": 7,
+      "height_clusters": [
+        23,
+        25,
+        26,
+        30,
+        32,
+        35,
+        38
+      ]
+    },
+    "zone_consistency": {
+      "en_tete": {
+        "median_h": 28.5,
+        "std_h": 6.3,
+        "cv": 0.22,
+        "n_elements": 4
+      },
+      "identifiants": {
+        "median_h": 26.0,
+        "std_h": 4.6,
+        "cv": 0.177,
+        "n_elements": 10
+      },
+      "lignes": {
+        "median_h": 30,
+        "std_h": 2.3,
+        "cv": 0.078,
+        "n_elements": 17
+      },
+      "totaux": {
+        "median_h": 31.0,
+        "std_h": 3.9,
+        "cv": 0.126,
+        "n_elements": 8
+      }
+    },
+    "element_font_usage": {
+      "nb_font_families_elements": 2,
+      "font_usage": {
+        "arial": 29,
+        "courier": 1
+      }
+    }
+  },
+  "metriques_multipage": {
+    "nb_pages": 1,
+    "note": "document mono-page"
+  },
+  "anomalies": [
+    {
+      "categorie": "champ_mal_positionne",
+      "severite": "warning",
+      "description": "Champ 'total' détecté à y=0.32 hors de la zone attendue [0.55, 0.95] ; texte='Total'.",
+      "zone": "page_1",
+      "position": {
+        "y_norm": 0.324,
+        "expected": [
+          0.55,
+          0.95
+        ]
+      },
+      "score_impact": 6.0
+    },
+    {
+      "categorie": "champ_mal_positionne",
+      "severite": "warning",
+      "description": "Champ 'siret' détecté à y=0.27 hors de la zone attendue [0.72, 1.00] ; texte='SIRET'.",
+      "zone": "page_1",
+      "position": {
+        "y_norm": 0.266,
+        "expected": [
+          0.72,
+          1.0
+        ]
+      },
+      "score_impact": 6.0
+    },
+    {
+      "categorie": "alignement_global",
+      "severite": "warning",
+      "description": "22 éléments (73%) sont désalignés par rapport aux colonnes dominantes.",
+      "zone": null,
+      "position": null,
+      "score_impact": 5.0
+    },
+    {
+      "categorie": "alignement_section",
+      "severite": "warning",
+      "description": "La section 'lignes' présente 85% d'éléments désalignés.",
+      "zone": "lignes",
+      "position": null,
+      "score_impact": 4.0
+    },
+    {
+      "categorie": "tailles_police_multiples",
+      "severite": "warning",
+      "description": "7 tailles de police proxifiées détectées ; attendu 2 à 4 sur un document standard.",
+      "zone": null,
+      "position": null,
+      "score_impact": 4.0
+    },
+    {
+      "categorie": "police_non_standard",
+      "severite": "warning",
+      "description": "Police inhabituelle détectée : 'courier'.",
+      "zone": "courier",
+      "position": null,
+      "score_impact": 3.0
+    },
+    {
+      "categorie": "police_rare",
+      "severite": "info",
+      "description": "La police 'courier' est rare dans le document (3.3% des éléments) ; possible insertion locale.",
+      "zone": "courier",
+      "position": null,
+      "score_impact": 1.5
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "cand_0005",
+      "text": "199,99",
+      "candidate_type": "amount",
+      "page_id": 0,
+      "raw_score": 0.4625,
+      "calibrated_score": 0.4625,
+      "signals": {
+        "local_alignment_break": 1.0,
+        "font_inconsistency": 0.25,
+        "isolated_numeric_value": 0.25,
+        "unusual_length": 0.0
+      },
+      "verdict": "ok",
+      "bbox": [
+        690,
+        520,
+        772,
+        550
+      ]
+    },
+    {
+      "candidate_id": "cand_0004",
+      "text": "199,99",
+      "candidate_type": "amount",
+      "page_id": 0,
+      "raw_score": 0.4421,
+      "calibrated_score": 0.4421,
+      "signals": {
+        "local_alignment_break": 0.9417,
+        "font_inconsistency": 0.25,
+        "isolated_numeric_value": 0.25,
+        "unusual_length": 0.0
+      },
+      "verdict": "ok",
+      "bbox": [
+        548,
+        520,
+        630,
+        550
+      ]
+    },
+    {
+      "candidate_id": "cand_0003",
+      "text": "1 299,99",
+      "candidate_type": "amount",
+      "page_id": 0,
+      "raw_score": 0.4,
+      "calibrated_score": 0.4,
+      "signals": {
+        "local_alignment_break": 1.0,
+        "font_inconsistency": 0.0,
+        "isolated_numeric_value": 0.25,
+        "unusual_length": 0.0
+      },
+      "verdict": "ok",
+      "bbox": [
+        690,
+        455,
+        795,
+        485
+      ]
+    },
+    {
+      "candidate_id": "cand_0006",
+      "text": "300,00",
+      "candidate_type": "amount",
+      "page_id": 0,
+      "raw_score": 0.382,
+      "calibrated_score": 0.382,
+      "signals": {
+        "local_alignment_break": 0.8056,
+        "font_inconsistency": 0.0,
+        "isolated_numeric_value": 0.5,
+        "unusual_length": 0.0
+      },
+      "verdict": "ok",
+      "bbox": [
+        710,
+        810,
+        780,
+        840
+      ]
+    },
+    {
+      "candidate_id": "cand_0002",
+      "text": "1 299,99",
+      "candidate_type": "amount",
+      "page_id": 0,
+      "raw_score": 0.3708,
+      "calibrated_score": 0.3708,
+      "signals": {
+        "local_alignment_break": 0.9167,
+        "font_inconsistency": 0.0,
+        "isolated_numeric_value": 0.25,
+        "unusual_length": 0.0
+      },
+      "verdict": "ok",
+      "bbox": [
+        540,
+        455,
+        645,
+        485
+      ]
+    },
+    {
+      "candidate_id": "cand_0001",
+      "text": "12/02/2026",
+      "candidate_type": "date",
+      "page_id": 0,
+      "raw_score": 0.3351,
+      "calibrated_score": 0.3351,
+      "signals": {
+        "local_alignment_break": 0.5764,
+        "font_inconsistency": 0.0,
+        "isolated_numeric_value": 0.6667,
+        "unusual_length": 0.0
+      },
+      "verdict": "ok",
+      "bbox": [
+        200,
+        215,
+        318,
+        238
+      ]
+    },
+    {
+      "candidate_id": "cand_0007",
+      "text": "FR76 3000 4000 5000 6000 7000 890",
+      "candidate_type": "alphanumeric_ref",
+      "page_id": 0,
+      "raw_score": 0.1,
+      "calibrated_score": 0.1,
+      "signals": {
+        "local_alignment_break": 0.0,
+        "font_inconsistency": 0.0,
+        "isolated_numeric_value": 0.5,
+        "unusual_length": 0.0
+      },
+      "verdict": "ok",
+      "bbox": [
+        180,
+        1030,
+        580,
+        1055
+      ]
+    }
+  ],
+  "metadata": {
+    "path": "examples/sample_doc.json"
+  }
+}
